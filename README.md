@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 About Me  
+Hello! I am Kim juho. 🚀  
+I research AI, autonomous driving, and smart mobility, developing projects using ROS and reinforcement learning for F1TENTH, as well as Skeleton Tracking-based behavior analysis systems.  
 
-<!--
-**Kimjh01/Kimjh01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔥 Interests  
+- Autonomous Driving (LiDAR, GPS, Camera Fusion)  
+- Reinforcement Learning (DQN)  
+- ROS, SLAM, Sensor Fusion  
+- Skeleton Tracking & Behavior Analysis  
 
-Here are some ideas to get you started:
+## 🏆 Projects  
+- **Smart Refrigerator**: Low-cost smart refrigerator development
+- **Skeleton Tracking Behavior Analysis**: Human motion tracking for risk detection  
+- **Vehicle License Plate Recognition with TTS**: Automated license plate recognition with text-to-speech  
+- **F1TENTH RL**: LiDAR-based DQN reinforcement learning driving
+- **Automatic Drainage System**: Development of automatic drainage system for urban flood prevention  
+- **Vehicle Scratch Detection**: AI-powered vehicle scratch detection system  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact  
+📧 Email: felix3328@naver.com
+🔗 [Blog](https://#####) | [GitHub](https://github.com/Kimjh01)  
+
+![page](https://github.com/user-attachments/assets/32ab85a6-fe14-4b55-8f99-80e004b9b206)
