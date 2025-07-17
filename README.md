@@ -22,7 +22,7 @@ I research AI, autonomous driving, and smart mobility, developing projects using
 
 ## 📄 Self
 
-[👉 Self-introduction.html]([https://Kimjh01.github.io/Kimjh01/Self-introduction.html](https://github.com/Kimjh01/Kimjh01/blob/main/Self-introduction.html))
+[👉 Self-introduction.html](https://github.com/Kimjh01/Kimjh01/blob/main/Self-introduction.html)
 
 
 
