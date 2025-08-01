@@ -18,7 +18,8 @@ I research AI, autonomous driving, and smart mobility, developing projects using
 
 ## 📫 Contact  
 📧 Email: felix3328@naver.com
-🔗 [Blog](https://#####) | [GitHub](https://github.com/Kimjh01)  
+🔗 [Blog](https://velog.io/@felix3328/posts) | [GitHub](https://github.com/Kimjh01)  
+
 
 ## 📄 Self
 
