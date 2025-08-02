@@ -21,9 +21,4 @@ I research AI, autonomous driving, and smart mobility, developing projects using
 🔗 [Blog](https://velog.io/@felix3328/posts) | [GitHub](https://github.com/Kimjh01)  
 
 
-## 📄 Self
-
-![cv_site](./Self-introduction.png)
-
-
 
