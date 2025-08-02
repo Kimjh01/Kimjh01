@@ -2,6 +2,9 @@
 Hello! I am Kim juho. 🚀  
 I research AI, autonomous driving, and smart mobility, developing projects using ROS and reinforcement learning for F1TENTH, as well as Skeleton Tracking-based behavior analysis systems.  
 
+<img src="https://github.com/Kimjh01/Kimjh01/blob/output/github-contribution-grid-snake.svg"/>
+
+
 ## 🔥 Interests  
 - Autonomous Driving (LiDAR, GPS, Camera Fusion)  
 - Reinforcement Learning (DQN)  
