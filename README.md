@@ -4,7 +4,7 @@ I research AI, autonomous driving, and smart mobility, developing projects using
 
 <img src="https://github.com/Kimjh01/Kimjh01/blob/output/github-contribution-grid-snake.svg"/>
 
-<div>
+<div style="display: flex; align-items: center; flex-wrap: wrap; gap: 4px;">
   <a href="https://solved.ac/felix3328">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=felix3328" alt="Solved.ac 프로필"/>
   </a>
