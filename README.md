@@ -10,6 +10,8 @@ I research AI, autonomous driving, and smart mobility, developing projects using
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=felix3328" alt="Solved.ac 프로필"/>
   </a>
 
+---
+
   <!-- 오른쪽 배지 묶음 -->
   <div style="display: flex; flex-wrap: wrap; gap: 4px; max-width: 800px;">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
