@@ -2,7 +2,11 @@
 Hello! I'm Kim juho. 🚀  
 I research AI, autonomous driving, and smart mobility, developing projects using ROS and reinforcement learning for F1TENTH, as well as Skeleton Tracking-based behavior analysis systems.  
 
-![snake gif](https://github.com/Kimjh01/Kimjh01/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
