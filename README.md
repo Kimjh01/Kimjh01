@@ -2,15 +2,7 @@
 Hello! I'm Kim juho. 🚀  
 I research AI, autonomous driving, and smart mobility, developing projects using ROS and reinforcement learning for F1TENTH, as well as Skeleton Tracking-based behavior analysis systems.  
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/Kimjh01/Kimjh01/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/Kimjh01/Kimjh01/output/github-contribution-grid-snake.svg" />
-  <img alt="github snake"
-       src="https://raw.githubusercontent.com/Kimjh01/Kimjh01/output/github-contribution-grid-snake.svg" />
-</picture>
-
+![snake gif](https://github.com/Kimjh01/Kimjh01/blob/output/github-contribution-grid-snake.svg)
 
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
   <!-- 왼쪽 Solved.ac 카드 -->
