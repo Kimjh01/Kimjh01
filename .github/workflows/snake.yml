@@ -1,11 +1,12 @@
-name: generate animation
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */24 * * *"   # 24시간마다
+    # every 6 hours
+    - cron: "0 */6 * * *"
   workflow_dispatch:
   push:
-    branches: [ main ]       # master -> main
+    branches: [ main ] 
 
 permissions:
   contents: write
@@ -14,11 +15,12 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate snake svgs
+      - name: Generate snake SVGs
         uses: Platane/snk@v3
         with:
           github_user_name: Kimjh01
