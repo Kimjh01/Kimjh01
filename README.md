@@ -4,7 +4,7 @@ I research AI, autonomous driving, and smart mobility, developing projects using
 
 <img src="https://github.com/Kimjh01/Kimjh01/blob/output/github-contribution-grid-snake.svg"/>
 
-<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; align-items: flex-start; gap: 20px;">
   <!-- 왼쪽 Solved.ac 카드 -->
   <a href="https://solved.ac/felix3328" style="flex-shrink: 0;">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=felix3328" alt="Solved.ac 프로필"/>
@@ -45,6 +45,7 @@ I research AI, autonomous driving, and smart mobility, developing projects using
     <img src="https://img.shields.io/badge/Autodesk%20Inventor-0696D7?style=for-the-badge&logo=autodeskinventor&logoColor=white"/>
   </div>
 </div>
+
 
 
 
