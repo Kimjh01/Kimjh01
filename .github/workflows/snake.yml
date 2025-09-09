@@ -1,41 +1,39 @@
 name: generate animation
 
 on:
-  # run automatically every 24 hours
   schedule:
-    - cron: "0 */24 * * *" 
-  
-  # allows to manually run the job at any time
+    - cron: "0 */24 * * *"   # 24시간마다
   workflow_dispatch:
-  
-  # run on every push on the master branch
   push:
-    branches:
-    - master
-    
-  
+    branches: [ main ]       # master -> main
+
+# 푸시 권한 필요
+permissions:
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    
     steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+      # (선택) repo가 필요한 경우를 대비해 checkout
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate snake svgs
+        uses: Platane/snk@v3
         with:
           github_user_name: Kimjh01
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "chore: update snake"
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          # 기본 제공 토큰 사용 (GH_TOKEN 아님!)
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
