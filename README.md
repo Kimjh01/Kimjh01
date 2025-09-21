@@ -7,13 +7,6 @@ I research AI, autonomous driving, and smart mobility, developing projects using
   <img alt="snake" src="https://raw.githubusercontent.com/Kimjh01/Kimjh01/output/github-contribution-grid-snake.svg" />
 </picture>
 
-
-<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <!-- 왼쪽 Solved.ac 카드 -->
-  <a href="https://solved.ac/felix3328">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=felix3328" alt="Solved.ac 프로필"/>
-  </a>
-
 ---
 
   <!-- 오른쪽 배지 묶음 -->
