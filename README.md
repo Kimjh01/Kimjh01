@@ -1,5 +1,5 @@
 # 👋 Hi  
-Hello! I'm Kim juho. 🚀  
+Hello! I'm Kim juho.   
 I research AI, autonomous driving, and smart mobility, developing projects using ROS and reinforcement learning for F1TENTH, as well as Skeleton Tracking-based behavior analysis systems.  
 
 <picture>
@@ -8,9 +8,9 @@ I research AI, autonomous driving, and smart mobility, developing projects using
 </picture>
 
 
-# **SKILLS**
+## 🚀 SKILLS
 
-## **Programming & Software**
+**Programming & Software**
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -18,9 +18,7 @@ I research AI, autonomous driving, and smart mobility, developing projects using
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
 
----
-
-## **AI / Data / Computer Vision**
+**AI / Data / Computer Vision**
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
@@ -32,9 +30,7 @@ I research AI, autonomous driving, and smart mobility, developing projects using
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFAE1A?style=for-the-badge&logo=huggingface&logoColor=white"/>
 
----
-
-## **Embedded / Robotics / System**
+**Embedded / Robotics / System**
 
 <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
@@ -44,9 +40,7 @@ I research AI, autonomous driving, and smart mobility, developing projects using
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
 
----
-
-## **Tools & DevOps**
+**Tools & DevOps**
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
